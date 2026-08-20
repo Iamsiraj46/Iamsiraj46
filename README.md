@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siraj Uddin</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS · Docker · Kubernetes · CI/CD · IaC</h3>
+<h1 align="center">Hi I'm Siraj Uddin</h1>
+<h3 align="center">DevOps and Cloud Engineer | AWS · Python · Kubernetes · CI/CD · IaC</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sirajuddin4361/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sirajuddincontact46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-informational?style=for-the-badge" />
 </p>
@@ -15,16 +12,16 @@
 
 ### 🚀 About Me
 
-- 🌩️ Cloud & DevOps Engineer focused on building **scalable, secure, and cost-optimized** AWS infrastructure
-- 🐳 Experienced in **containerization** (Docker, Kubernetes, AWS ECS) and **Infrastructure as Code** (Terraform)
-- 🔁 Skilled in designing and automating **CI/CD pipelines** with GitHub Actions and Jenkins
-- 🐚 Proficient in **Bash & Python scripting** for system automation — log rotation, backups, and deployment tasks
-- 🧭 Currently working as a **Cloud/DevOps Engineer at IntraClouds Pvt Ltd**, building AWS infrastructure with Terraform and leading multi-environment deployments
-- 🎓 Bachelor's in Computer Science — University of Malakand, KPK, Pakistan
+# Cloud & DevOps Engineer focused on building **scalable, secure, and cost-optimized** AWS infrastructure
+# Experienced in **containerization** (Docker, Kubernetes, AWS ECS) and **Infrastructure as Code** (Terraform)
+# Skilled in designing and automating **CI/CD pipelines** with GitHub Actions and Jenkins
+# Proficient in **Bash & Python scripting** for system automation — log rotation, backups, and deployment tasks
+# Currently working as a **Cloud/DevOps Engineer at IntraClouds Pvt Ltd**, building AWS infrastructure with Terraform and leading multi-environment deployments
+# Bachelor's in Computer Science — University of Malakand, KPK, Pakistan
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Cloud & Infrastructure**
 <p>
@@ -64,21 +61,21 @@
 
 ---
 
-### 💼 Featured Projects
+###  Featured Projects
 
-#### 🔹 [Deployment of React Website on AWS via GitHub Actions](https://github.com/Iamsiraj46)
+####  [Deployment of React Website on AWS via GitHub Actions](https://github.com/Iamsiraj46)
 Hosted a production React application on AWS with a fully automated CI/CD pipeline using **GitHub Actions**. Designed the infrastructure to stay secure, scalable, and cost-effective — keeping monthly hosting costs **under $10**.
 `AWS` `GitHub Actions` `React` `Git` `CI/CD`
 
-#### 🔹 [Full-Stack Serverless Application Deployment on AWS](https://github.com/Iamsiraj46)
+####  [Full-Stack Serverless Application Deployment on AWS](https://github.com/Iamsiraj46)
 Built and deployed a full-stack serverless web app using **AWS Lambda, API Gateway, DynamoDB, RDS (MySQL), S3, and CloudFront**. Configured IAM roles/policies and AWS Budgets for secure access control and cost monitoring.
 `AWS Lambda` `API Gateway` `DynamoDB` `RDS` `S3` `CloudFront` `Node.js`
 
-> 💡 *Replace the links above with the actual repo URLs once you push these projects to GitHub.*
+>  *Replace the links above with the actual repo URLs once you push these projects to GitHub.*
 
 ---
 
-### 📈 Experience Snapshot
+###  Experience Snapshot
 
 | Company | Role | Duration |
 |---|---|---|
@@ -87,7 +84,7 @@ Built and deployed a full-stack serverless web app using **AWS Lambda, API Gatew
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iamsiraj46&show_icons=true&theme=tokyonight&count_private=true" height="165" />
@@ -100,7 +97,7 @@ Built and deployed a full-stack serverless web app using **AWS Lambda, API Gatew
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sirajuddin4361/">LinkedIn</a> •
