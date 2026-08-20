@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siraj Uddin</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS · Docker · Kubernetes · CI/CD · IaC</h3>
+<h3 align="center">DevOps and Cloud Engineer | AWS · Python · Docker · Kubernetes · CI/CD · IaC</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sirajuddin4361/">
@@ -87,18 +87,6 @@ Built and deployed a full-stack serverless web app using **AWS Lambda, API Gatew
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamsiraj46&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamsiraj46&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsiraj46&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
