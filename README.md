@@ -3,14 +3,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sirajuddin4361/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-informational?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
+
 
 # Cloud & DevOps Engineer focused on building **scalable, secure, and cost-optimized** AWS infrastructure
 # Experienced in **containerization** (Docker, Kubernetes, AWS ECS) and **Infrastructure as Code** (Terraform)
